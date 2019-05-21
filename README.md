@@ -1,6 +1,6 @@
 # Description
 
-Minimal Python unit-test setup.
+Minimal Python unit-test setup. Useful for Coding-Dojos.
 
 ## Test framework
 
@@ -23,8 +23,8 @@ pip install -r requirements.txt
 
 ## Running tests
 
-It is strongly recommended that you use a Python IDE like 
-([PyCharm](https://www.jetbrains.com/pycharm/) 
+It is strongly recommended that you use a Python IDE (like 
+[PyCharm](https://www.jetbrains.com/pycharm/))
 to run the tests.
 
 If you are using PyTest, you can also run them from the
