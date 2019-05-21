@@ -1,0 +1,6 @@
+
+# Local virtual environment
+venv/
+
+# IDE files
+.idea
